@@ -20,6 +20,7 @@ https://dane-bulat.medium.com/vim-setting-up-a-build-system-and-code-completion-
 
 for YCM(YouCompleteMe) Installation:
 Replace `sudo apt install build-essential python3-dev llvm-defaults` with 
-```sudo apt update
+```
+sudo apt update
 sudo apt install build-essential python3-dev llvm clang
 ```
