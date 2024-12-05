@@ -17,3 +17,9 @@ section for various color and more can be added
 
 this site is the source for this setup
 https://dane-bulat.medium.com/vim-setting-up-a-build-system-and-code-completion-for-c-and-c-eb263c0a19a1
+
+for YCM(YouCompleteMe) Installation:
+Replace `sudo apt install build-essential python3-dev llvm-defaults` with 
+```sudo apt update
+sudo apt install build-essential python3-dev llvm clang
+```
